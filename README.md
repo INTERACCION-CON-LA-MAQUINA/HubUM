@@ -12,4 +12,4 @@ El objetivo principal de este proyecto es mantener informados a los estudiantes 
 - Matías Quezada [@Schulermitangst](https://github.com/Schulermitangst).
   
 # Accesos
-[![Deployed on Cloudflare](https://img.shields.io/badge/Deployed%20on-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](<Link>)
+[![Deployed on Cloudflare](https://img.shields.io/badge/Deployed%20on-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://hubum.matias-quezadapl.workers.dev/)
